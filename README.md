@@ -7,7 +7,7 @@ This tutorial will take you step by step through the process of creating a simil
 ![](DataViz1.JPG)   
 The `frameCount` variable keeps track of the number of times the screen is drawn. By default the `draw()` function runs 60 times a second. We can use the `frameCount` variable to make things appear or disappear at different times. Now add the following code to your program and run it. You should see red, green and blue ellipses appear at different times.   
 ![](DataViz2.JPG)   
-So now lets add a map that we can use for the background. Here’s a link to a world map we can use for our visualization: [https://raw.githubusercontent.com/simart/DataVizOverTime/master/worldMap.jpg](). You can use the link to load the picture into your program with code like this:
+So now lets add a map that we can use for the background. Here’s a link to a world map we can use for our visualization: [https://raw.githubusercontent.com/simart/DataVizOverTime/master/worldMap.jpg](https://raw.githubusercontent.com/simart/DataVizOverTime/master/worldMap.jpg). You can use the link to load the picture into your program with code like this:
 ![](DataViz3.JPG)    
 We’ll use `frameCount` to display the year. We’ll use negative numbers for BC and positive for AD.   
 ![](DataViz4.JPG)
