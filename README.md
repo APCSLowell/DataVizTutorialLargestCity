@@ -1,4 +1,4 @@
-Data Visualization Tutorial: The worlds largest city
+Data Visualization Tutorial: The worlds largest city over the past 4000 years
 =====================================================
 
 First, watch [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo). It's a data visualization on the statistics of health in 200 differenct countries over the past 200 years.   
