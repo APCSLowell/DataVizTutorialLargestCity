@@ -13,8 +13,8 @@ We’ll use `frameCount` to display the year. We’ll use negative numbers for B
 ![](DataViz4.JPG)
 Here’s some data from the [Wikipedia article List of largest cities throughout history](https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history) stored in two arrays `years` and `places`.
 
-`let years = [    -1500,   -1000,   -500,   -200,      1,         600,    800,      1000,     1200,     1400,     1500,     1900,     2000,    9999];`
-`let places = ["Memphis","Thebes","Qiyi","Babylon","Alexandria","Rome","Daxing","Chang'an","Kaifeng","Hangzhou","Jinling","Beijing","London","Tokyo"];`
+`let years = [    -1500,   -1000,   -500,   -200,      1,         600,    800,      1000,     1200,     1400,     1500,     1900,     2000,    9999];`   
+`let places = ["Memphis","Thebes","Qiyi","Babylon","Alexandria","Rome","Daxing","Chang'an","Kaifeng","Hangzhou","Jinling","Beijing","London","Tokyo"];`   
 Add that with some other code to your program:   
 ![](DataViz5.JPG)   
 Here’s two more arrays `x` and `y`   
