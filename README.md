@@ -1,7 +1,7 @@
 Data Visualization Tutorial: The worlds largest city
 =====================================================
 
-First, watch [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo). It's a data visualization on the statistics of health in differenct countries of the past 200 years.   
+First, watch [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo). It's a data visualization on the statistics of health in 200 differenct countries over the past 200 years.   
 
 This tutorial will take you step by step through the process of creating a similar but simpler data visualtion of the largest city in the world over the past 4000 years using P5. Go to [editor.p5js.org](https://editor.p5js.org/) and enter the following code.    
 ![](DataViz1.JPG)   
